@@ -1,0 +1,37 @@
+/* this is a css file*/
+body{
+    font-family: "Times New Roman",Arial, Helvetica, sans-serif;
+}
+
+.SearchResults{
+    position:relative;
+    left:120px;
+    top:50px;    
+}
+
+a{
+    font-size: 18px;
+}
+
+.Option1{
+    position:relative;
+    top:1px;
+    
+}
+
+.Option2{
+    position:relative;
+    left:270px;
+    bottom:87.5px;
+}
+
+.Gsearch{
+    position:relative;
+    left:92px;
+    bottom:52px;
+}
+
+.numbers{
+    position:relative;
+    left:135px;
+}
