@@ -1,0 +1,144 @@
+/* this is a css file*/
+
+html, body{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: "Times New Roman",Arial, Helvetica, sans-serif;
+}
+
+.Input{
+    position:relative;
+    left: 140px;
+    bottom:53px; 
+}
+
+
+.Googleimg{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#f1f1f1;
+    background-color: #f1f1f1;
+    background-position: relative;
+    
+}
+
+.SearchResults{
+    position:relative;
+    left:120px;
+    top:50px;    
+}
+
+
+.Link0:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link1:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link2:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link3:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link4:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link5:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link6:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link7:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Link8:hover{
+    text-decoration:underline;
+    color:blue;
+}
+
+.Link9:hover{
+    text-decoration:underline;
+    color:blue;
+}
+
+.Link10:hover{
+    text-decoration:underline;
+    color:blue;
+}
+
+a{
+    font-size: 18px; 
+}
+
+.Fix1{
+    position:relative;
+    left:145px;
+    bottom:20px;
+}
+
+.Fix2{
+    position:relative;
+    bottom:20px;
+    
+}
+
+.Option1{
+    position:relative;
+    top:1px;
+    
+}
+
+.Option2{
+    position:relative;
+    left:270px;
+    bottom:87.5px;
+}
+
+.Gsearch{
+    position:relative;
+    left:92px;
+    bottom:52px;
+}
+
+
+.numbers:hover{
+    text-decoration:underline;
+}
+.numbers{
+    position:relative;
+    left:135px;
+    bottom:60px;
+    color:#0000e7;
+}
+
+.Next:hover{
+    text-decoration:underline;
+}
+.Next{
+    position:relative;
+    left:376px;
+    bottom:81px;
+    color:#0000e7;
+}
+
