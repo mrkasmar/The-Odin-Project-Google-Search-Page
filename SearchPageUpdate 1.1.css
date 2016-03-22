@@ -11,10 +11,22 @@ body{
 
 .Input{
     position:relative;
-    left: 140px;
-    bottom:53px; 
+    left: 130px;
+    bottom:60px; 
 }
 
+.SearchButton{
+    position: relative;
+    left: 713px;
+    background: #4285f4;
+    border-radius: 0px 3px 3px 0px;
+    width: 15px;
+    height: 15px;
+    padding: 5px 35px 18px 0px;
+    margin-right: 40px;
+    bottom: 97.2px;
+    
+}
 
 .Googleimg{
     border-style: solid;
@@ -24,6 +36,21 @@ body{
     background-position: relative;
     
 }
+
+.ExtraOptions{
+    font-size: 17px;
+    position:relative;
+    bottom: 58px;
+}
+
+.Line{
+    position: relative;
+    right: 120px;
+    bottom: 45px;
+    color: #ebebeb;
+    opacity: .1;
+}
+
 
 .SearchResults{
     position:relative;
