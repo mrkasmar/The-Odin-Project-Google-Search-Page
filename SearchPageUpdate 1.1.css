@@ -33,7 +33,7 @@ body{
     border-width: 1px;
     border-color:#f1f1f1;
     background-color: #f1f1f1;
-    background-position: relative;
+    background-position: static;
     
 }
 
