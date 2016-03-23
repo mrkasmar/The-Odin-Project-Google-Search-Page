@@ -130,16 +130,72 @@ a{
     
 }
 
-.Option1{
-    position:relative;
-    top:1px;
+.Line2{
+    position: relative;
+    width: 550px;
+    bottom: 40px;
+    color: #ededed;
+    opacity: .1;
     
+}
+
+.Option1{
+    position: relative;
+    top: 5px;
+}
+
+.Elink1:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.Elink2:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Elink3:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Elink4:hover{
+    text-decoration: underline;
+    color:blue;
 }
 
 .Option2{
     position:relative;
     left:270px;
-    bottom:87.5px;
+    bottom:92px;
+}
+
+.Elink5:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Elink6:hover{
+    text-decoration: underline;
+    color:blue;    
+}
+
+.Elink7:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Elink8:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.Line3{
+    position: relative;
+    width: 550px;
+    bottom: 60px;
+    color: #ededed;
+    opacity: .1;
 }
 
 .Gsearch{
@@ -148,10 +204,6 @@ a{
     bottom:52px;
 }
 
-
-.numbers:hover{
-    text-decoration:underline;
-}
 .numbers{
     position:relative;
     left:135px;
@@ -159,13 +211,126 @@ a{
     color:#0000e7;
 }
 
+.one{
+    position: relative;
+    right: 1px;
+}
+
+.one:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.two{
+    position: relative;
+    left: 19px;
+    bottom: 20px;
+}
+
+.two:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.three{
+    position: relative;
+    left: 39px;
+    bottom: 40px;
+}
+
+.three:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.four{
+    position: relative;
+    left: 58px;
+    bottom: 60px;
+}
+
+.four:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.five{
+    position: relative;
+    left: 78px;
+    bottom: 80px;
+}
+
+.five:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.six{
+    position: relative;
+    left: 98px;
+    bottom: 100px;
+}
+
+.six:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.seven{
+    position: relative;
+    left: 119px;
+    bottom: 120px;
+}
+
+.seven:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.eight{
+    position: relative;
+    left: 139px;
+    bottom: 140px;
+}
+
+.eight:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.nine{
+    position: relative;
+    left: 159px;
+    bottom: 160px;
+}
+
+.nine:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
+.ten{
+    position: relative;
+    left: 176px;
+    bottom: 180px;
+}
+.ten:hover{
+    text-decoration: underline;
+    color:blue;
+}
+
 .Next:hover{
-    text-decoration:underline;
+    text-decoration: underline;
 }
 .Next{
-    position:relative;
-    left:376px;
-    bottom:81px;
+    position: relative;
+    left: 376px;
+    bottom: 260px;
     color:#0000e7;
+}
+
+.Searches{
+    position: relative;
+    bottom: 30px;
 }
 
